@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RemoteDictoryQuery
+Bundle-SymbolicName: RemoteDictoryQuery
+Bundle-Version: 1.0.0
+Bundle-Activator: remotedictoryquery.Activator
+Bundle-Vendor: REMOTEDICTORYQUERY
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.3.0",
+ org.osgichina.demo.dictquery.query
